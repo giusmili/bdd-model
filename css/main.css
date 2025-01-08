@@ -1,0 +1,14 @@
+header h1{
+    line-height: 7rem;
+    text-align: center;
+    font-weight: normal;
+}
+section h2{
+    text-align: center;
+    font-weight: normal;
+    padding: 2rem 0;
+}
+figure > img{
+    display: inline-block;
+    height: 15rem;
+}
